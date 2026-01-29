@@ -14,15 +14,8 @@ Primero creé una base de datos nueva llamada `bd_ejercicio_sql` en pgAdmin 4.
 
 Creé 2 tablas relacionadas:
 
-**Tabla Clientes:**
-- idcliente (número único)
-- nombre (texto)
-- edad (entre 18 y 85)
-
-**Tabla Cuentas:**
-- idcuenta (número único)
-- idcliente (relacionado con Clientes)
-- saldo (entre -5000 y 100000)
+**Tabla Clientes**
+**Tabla Cuentas**
 
 ![Crear tablas](img/02-creacion-tablas.png)
 
