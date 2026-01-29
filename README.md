@@ -14,8 +14,7 @@ Primero creé una base de datos nueva llamada `bd_ejercicio_sql` en pgAdmin 4.
 
 Creé 2 tablas relacionadas:
 
-**Tabla Clientes**
-**Tabla Cuentas**
+**Tabla Clientes y Tabla Cuentas**
 
 ![Crear tablas](img/02-creacion-tablas.png)
 
